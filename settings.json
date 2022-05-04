@@ -1,0 +1,16 @@
+{
+    "editor.fontSize": 14,
+    "workbench.colorTheme": "Monokai",
+    "editor.fontFamily": "'Noto Mono for Powerline'",
+    "editor.tabSize": 2,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.fontAliasing": "antialiased",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.autoSave": "onWindowChange",
+    "editor.fontWeight": "bold",
+    "bracketPairColorizer.depreciation-notice": false,
+    "security.workspace.trust.untrustedFiles": "open"
+}
